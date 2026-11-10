@@ -1,1 +1,3 @@
-I'm a developer and designer who enjoys building small, useful projects. I like working with open-source tools, learning new languages, and making things more efficient.
+> I'm Arash, aka Vikonad. Self-taught, Rome-based, currently studying cybersecurity.
+> I run my own Linux + Docker infrastructure on a Raspberry Pi 5 (Caddy, Prometheus/Grafana, Matrix, Owncast and a TeamSpeak server my friends use daily), write Go and Python, and I'm working toward LPIC-1.
+> I like building things from scratch, especially when I don't know how yet.
